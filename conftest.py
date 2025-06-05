@@ -1,0 +1,1 @@
+# Shared fixtures can be defined here if needed
